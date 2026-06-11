@@ -72,6 +72,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "ml-fundamentals-sklearn",
+      "title": "Machine Learning Fundamentals with scikit-learn",
+      "description": "Learn supervised learning by building classification models, comparing algorithms, and optimizing performance with scikit-learn",
+      "path": "assignments/ml-fundamentals-sklearn",
+      "dueDate": "2026-06-18",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Sample Dataset",
+          "file": "sample-data.csv",
+          "type": "csv"
+        }
+      ]
     }
   ]
 }
